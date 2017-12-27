@@ -7,13 +7,15 @@ It also responds according to Facebook messenger built-in NLP: greeting, farewel
 
 ### Facebook page
 https://www.facebook.com/Gifty-188972671681447/
-Only testers can communicate with the bot.
 
 ### Features
 * Webview
 * Quick Replies
 * Get Started Button
 * Persistent Menu
+
+### Messenger API
+https://developers.facebook.com/docs/messenger-platform/reference?locale=en_US
 
 ### Author
 Janice Kim
